@@ -154,7 +154,6 @@ Check out my [repositories](https://github.com/AfrasyabZahid?tab=repositories) f
 <p align="center">
   <a href="https://linkedin.com/in/afrasyabzahid1/">LinkedIn</a> ·
   <a href="mailto:afrasyab037@gmail.com">Email</a> ·
-  <a href="tel:+923099924674">+92 309 9924674</a>
 </p>
 
 <p align="center"><i>Open to AI/ML, automation, and agentic AI engineering opportunities.</i></p>
